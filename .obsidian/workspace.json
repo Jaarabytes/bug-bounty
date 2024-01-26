@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Crawling.md",
+                "file": "Vulnerabilities/Paths.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Crawling.md",
+                "file": "Vulnerabilities/Paths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Crawling.md",
+                "file": "Vulnerabilities/Paths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Crawling.md"
+                "file": "Vulnerabilities/Paths.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,9 +148,11 @@
   "active": "215228cedb7bc0d4",
   "lastOpenFiles": [
     "Tools/Fuzzing.md",
+    "Vulnerabilities/Paths.md",
     "Tools/Nmap.md",
-    "Vulnerabilities/HTMLi.md",
     "Tools/Crawling.md",
+    "README.md",
+    "Vulnerabilities/HTMLi.md",
     "Tools/Quick.md",
     "Tools/Start?.md",
     "Vulnerabilities/IDORs.md",
