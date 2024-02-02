@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vulnerabilities/Paths.md",
+                "file": "Tools/One-liners.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vulnerabilities/Paths.md",
+                "file": "Tools/One-liners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vulnerabilities/Paths.md",
+                "file": "Tools/One-liners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vulnerabilities/Paths.md"
+                "file": "Tools/One-liners.md"
               }
             }
           }
@@ -147,16 +147,19 @@
   },
   "active": "215228cedb7bc0d4",
   "lastOpenFiles": [
-    "Tools/Fuzzing.md",
-    "Vulnerabilities/Paths.md",
+    "OSINT/Shodan.md",
+    "Tools/One-liners.md",
+    "Tools/Start?.md",
+    "2024-01-30.md",
+    "Tools/Quick.md",
     "Tools/Nmap.md",
+    "Tools/Fuzzing.md",
     "Tools/Crawling.md",
+    "Vulnerabilities/Paths.md",
+    "Vulnerabilities/Open_redirect.md",
     "README.md",
     "Vulnerabilities/HTMLi.md",
-    "Tools/Quick.md",
-    "Tools/Start?.md",
     "Vulnerabilities/IDORs.md",
-    "Vulnerabilities/Open_redirect.md",
     "Vulnerabilities/XSS.md",
     "Tools/JQ (JSON filter)..md",
     "Tools/LFI.md",
@@ -164,7 +167,6 @@
     "Tools/DORKS.md",
     "OSINT/Github.md",
     "Vulnerabilities",
-    "OSINT/Shodan.md",
     "OSINT/Resources.md",
     "OSINT/Google.md",
     "OSINT",
@@ -175,7 +177,6 @@
     "Tools",
     "Untitled 2.md",
     "Untitled 1.md",
-    "Gamma/Logged in.md",
     "Gamma"
   ]
 }

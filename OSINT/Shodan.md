@@ -1,3 +1,9 @@
+Searching for CVE's:
+( Test case Jenkins)
+product: Jenkins -"2.442"-"2.426.3"
+
+
+
 Interesting IP's from shodan:
 cat ips.txt | httpx > live-ips.txt
 cat live-ips.txt | dirsearch --stdin

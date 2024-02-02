@@ -21,6 +21,8 @@ paramspider
 dalfox(XSS), bfac(backup),blc(broken link hijacking)
 js files(subjs, linkfinder)
 secretfinder(Secrets in js file)
+
+
 Js analysis(Jsparser, jsfscan,jsscanner,jshole)
 CORS(CORScanner, corsy)
 bbot, arjun, ffuf, webcopilot,
