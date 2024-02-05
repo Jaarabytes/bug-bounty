@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/One-liners.md",
+                "file": "Vulnerabilities/Cache-deception.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/One-liners.md",
+                "file": "Vulnerabilities/Cache-deception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/One-liners.md",
+                "file": "Vulnerabilities/Cache-deception.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/One-liners.md"
+                "file": "Vulnerabilities/Cache-deception.md"
               }
             }
           }
@@ -147,8 +147,9 @@
   },
   "active": "215228cedb7bc0d4",
   "lastOpenFiles": [
-    "OSINT/Shodan.md",
     "Tools/One-liners.md",
+    "Vulnerabilities/Cache-deception.md",
+    "OSINT/Shodan.md",
     "Tools/Start?.md",
     "2024-01-30.md",
     "Tools/Quick.md",
@@ -176,7 +177,6 @@
     "Gamma/Intergamma subdomain.md",
     "Tools",
     "Untitled 2.md",
-    "Untitled 1.md",
     "Gamma"
   ]
 }
