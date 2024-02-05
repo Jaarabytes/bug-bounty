@@ -1,3 +1,9 @@
+Grep for:
+drive. google
+docs. google
+/spreadsheets/d/
+/document/d/
+
 cat subs.txt | httpx -title -status-code
 
 #KATANA

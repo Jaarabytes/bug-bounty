@@ -14,6 +14,8 @@ site:tesla.com ext:log | ext:txt | ext:conf | ext:cnf | ext:ini | ext:env | ext:
 
 site:target[.]com ext:php
 
+site:target[.]com intitle:"Oracle+PeopleSoft+Sign-in"
+
 site:target[.]com ext:jsp | ext:asp | ext:aspx | ext:pl | ext:cfm | ext:py | ext:rb
 
 site:redcare.it ext:(log | conf | txt | cnf | ini | env | sh | bak | backup | swp | old | ~ | git | svn | htpasswd | htaccess)
@@ -69,3 +71,8 @@ inurl:apidocs | inurl:api-docs | inurl:swagger | inurl:api-explorer site:"exampl
 
 LFI:
 inurl:include | inurl:dir | inurl:detail= | inurl:file= | inurl:folder= | inurl:inc= | inurl:locate= | inurl:doc= | inurl:conf= inurl:& site:example
+
+Jira dashboard:
+inurl:/ConfigurePortalPages!default.jspa?view=popular
+inurl:/ManageFilters.jspa?filterView=popular AND ( intext:All users )
+inurl:/UserPickerBrowser.jspa -intitle:Login -intitle:Log

@@ -11,6 +11,7 @@ cat live-ips.txt | dirsearch --stdin
 #Searches
 Use the last modifed and content length headers to get original IP(Thus bypass waf)
 
+sl:"target[.]com" 200 http.title:"dashboard"
 \*ssl.cert.fingerprint:”${target}”\*
 \*ssl:”${target}”*
 \*org:”${target}”*

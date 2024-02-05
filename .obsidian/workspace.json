@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vulnerabilities/Cache-deception.md",
+                "file": "Vulnerabilities/Phone-number.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ed7524d5686b2c8d",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vulnerabilities/Cache-deception.md",
+                "file": "Vulnerabilities/Phone-number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vulnerabilities/Cache-deception.md",
+                "file": "Vulnerabilities/Phone-number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vulnerabilities/Cache-deception.md"
+                "file": "Vulnerabilities/Phone-number.md"
               }
             }
           }
@@ -133,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,36 +149,36 @@
   },
   "active": "215228cedb7bc0d4",
   "lastOpenFiles": [
+    "OSINT/Github.md",
+    "Vulnerabilities/Phone-number.md",
+    "Tools/Crawling.md",
+    "OSINT/Google.md",
+    "OSINT/Shodan.md",
+    "Vulnerabilities/XSS.md",
     "Tools/One-liners.md",
     "Vulnerabilities/Cache-deception.md",
-    "OSINT/Shodan.md",
     "Tools/Start?.md",
     "2024-01-30.md",
     "Tools/Quick.md",
     "Tools/Nmap.md",
     "Tools/Fuzzing.md",
-    "Tools/Crawling.md",
     "Vulnerabilities/Paths.md",
     "Vulnerabilities/Open_redirect.md",
     "README.md",
     "Vulnerabilities/HTMLi.md",
     "Vulnerabilities/IDORs.md",
-    "Vulnerabilities/XSS.md",
     "Tools/JQ (JSON filter)..md",
     "Tools/LFI.md",
     "Tools/Recon.md",
     "Tools/DORKS.md",
-    "OSINT/Github.md",
     "Vulnerabilities",
     "OSINT/Resources.md",
-    "OSINT/Google.md",
     "OSINT",
     "soundtrack/Details.md",
     "Untitled.md",
     "soundtrack",
     "Gamma/Intergamma subdomain.md",
     "Tools",
-    "Untitled 2.md",
     "Gamma"
   ]
 }
