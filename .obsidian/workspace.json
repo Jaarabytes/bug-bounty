@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vulnerabilities/Phone-number.md",
+                "file": "Tools/Fuzzing.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ed7524d5686b2c8d",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vulnerabilities/Phone-number.md",
+                "file": "Tools/Fuzzing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vulnerabilities/Phone-number.md",
+                "file": "Tools/Fuzzing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vulnerabilities/Phone-number.md"
+                "file": "Tools/Fuzzing.md"
               }
             }
           }
@@ -149,18 +148,18 @@
   },
   "active": "215228cedb7bc0d4",
   "lastOpenFiles": [
-    "OSINT/Github.md",
-    "Vulnerabilities/Phone-number.md",
-    "Tools/Crawling.md",
+    "Tools/Nmap.md",
+    "Tools/One-liners.md",
+    "Tools/Quick.md",
+    "Tools/Start?.md",
     "OSINT/Google.md",
+    "Vulnerabilities/Phone-number.md",
+    "OSINT/Github.md",
+    "Tools/Crawling.md",
     "OSINT/Shodan.md",
     "Vulnerabilities/XSS.md",
-    "Tools/One-liners.md",
     "Vulnerabilities/Cache-deception.md",
-    "Tools/Start?.md",
     "2024-01-30.md",
-    "Tools/Quick.md",
-    "Tools/Nmap.md",
     "Tools/Fuzzing.md",
     "Vulnerabilities/Paths.md",
     "Vulnerabilities/Open_redirect.md",

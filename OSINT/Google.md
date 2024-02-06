@@ -14,6 +14,8 @@ site:tesla.com ext:log | ext:txt | ext:conf | ext:cnf | ext:ini | ext:env | ext:
 
 site:target[.]com ext:php
 
+site:redacted.com filetype:action
+
 site:target[.]com intitle:"Oracle+PeopleSoft+Sign-in"
 
 site:target[.]com ext:jsp | ext:asp | ext:aspx | ext:pl | ext:cfm | ext:py | ext:rb
