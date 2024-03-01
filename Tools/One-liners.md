@@ -1,3 +1,6 @@
+Try:
+naabu -host <ip> -p - -Pn -o portscan | httpx -sc -td -server
+
 Nuclei for weak FTP:
 cat port-scanned-hosts.txt | grep -E ':21$' | awk -F: '{print $1}' | nuclei -nh -id ftp-anonymous-login,ftp-weak-credentials
 

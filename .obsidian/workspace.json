@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Fuzzing.md",
+                "file": "Vulnerabilities/SQLi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Fuzzing.md",
+                "file": "Vulnerabilities/SQLi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Fuzzing.md",
+                "file": "Vulnerabilities/SQLi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Fuzzing.md"
+                "file": "Vulnerabilities/SQLi.md"
               }
             }
           }
@@ -148,20 +148,23 @@
   },
   "active": "215228cedb7bc0d4",
   "lastOpenFiles": [
-    "Tools/Nmap.md",
+    "Vulnerabilities/Paths.md",
+    "Vulnerabilities/SQLi.md",
+    "Vulnerabilities/Cache-deception.md",
     "Tools/One-liners.md",
     "Tools/Quick.md",
     "Tools/Start?.md",
+    "Vulnerabilities/XSS.md",
+    "Vulnerabilities/Spec/xmlrpc.md",
     "OSINT/Google.md",
+    "Vulnerabilities/Spec",
+    "Tools/Fuzzing.md",
+    "Tools/Nmap.md",
     "Vulnerabilities/Phone-number.md",
     "OSINT/Github.md",
     "Tools/Crawling.md",
     "OSINT/Shodan.md",
-    "Vulnerabilities/XSS.md",
-    "Vulnerabilities/Cache-deception.md",
     "2024-01-30.md",
-    "Tools/Fuzzing.md",
-    "Vulnerabilities/Paths.md",
     "Vulnerabilities/Open_redirect.md",
     "README.md",
     "Vulnerabilities/HTMLi.md",
@@ -174,9 +177,7 @@
     "OSINT/Resources.md",
     "OSINT",
     "soundtrack/Details.md",
-    "Untitled.md",
     "soundtrack",
-    "Gamma/Intergamma subdomain.md",
     "Tools",
     "Gamma"
   ]
